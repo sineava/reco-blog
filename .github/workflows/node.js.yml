@@ -37,7 +37,7 @@ jobs:
         # Source directory dist/ 需要到远端服务器的文件目录 **填入自己的打包路径**
         SOURCE: "public/"
         # Remote host **填入自己的域名**
-        REMOTE_HOST: "47.56.13.69"
+        REMOTE_HOST: "206.119.90.176"
         # Remote user **填入自己的用户,一般都是root用户**
         REMOTE_USER: "root"
         # Target directory 此处填写的是我博客域名下的action pacth下 **填入自己的域名路径**

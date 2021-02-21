@@ -58,7 +58,7 @@ module.exports = {
             "icon": "reco-blog"
           },
           {
-            "text": "mock音乐",
+            "text": "moc音乐",
             "link": "http://moc.sineava.top",
             "icon": "reco-blog"
           }
